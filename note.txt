@@ -1,0 +1,6 @@
+1. Initialise the github repository and readme 
+2. clone github to local machine
+3. create the file structure include controllers, middlewares, models, routes, and utils
+4. install neccessary depedencies namel express, mongoose, dotenv, bcryptjsm jsonwebtoken, multer, cloudinary and controllers
+5. install dev depedencies nodemon
+6. update package.json to inclue scripts for auto reloading ["start" : node server.js, dev : nodemon server.js]
